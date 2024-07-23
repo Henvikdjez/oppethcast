@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of cryptocurrency.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is Bitcoin?",
+      "answers": ["Crypto", "Token", "Coin"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is Satoshi?",
+      "answers": ["Founder", "Trader", "Miner"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Ethereum?",
+      "answers": ["Crypto", "Platform", "Token"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Blockchain?",
+      "answers": ["Ledger", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Mining?",
+      "answers": ["Process", "Buying", "Selling"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": ["Finance", "Trade", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is NFT?",
+      "answers": ["Token", "Coin", "Crypto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Wallet?",
+      "answers": ["Storage", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Altcoin?",
+      "answers": ["Crypto", "Token", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ledger?",
+      "answers": ["Record", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ICO?",
+      "answers": ["Funding", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Hash?",
+      "answers": ["Function", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is airdrop?",
+      "answers": ["Free", "Buy", "Sell"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DApp?",
+      "answers": ["App", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is HODL?",
+      "answers": ["Hold", "Sell", "Buy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is staking?",
+      "answers": ["Earning", "Buying", "Selling"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas?",
+      "answers": ["Fee", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is smart contract?",
+      "answers": ["Code", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is FOMO?",
+      "answers": ["Fear", "Greed", "Hope"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ATH?",
+      "answers": ["High", "Low", "Middle"],
       "correctAnswerIndex": 0
     }
   ]
